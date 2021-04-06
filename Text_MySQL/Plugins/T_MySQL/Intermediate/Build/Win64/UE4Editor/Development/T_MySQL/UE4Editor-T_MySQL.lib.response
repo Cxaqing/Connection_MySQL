@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-T_MySQL.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\CaoXiaoqing\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.NoUndef.h.obj"
+"D:\CaoXiaoqing\Project\Text_MySQL\Plugins\T_MySQL\Intermediate\Build\Win64\UE4Editor\Development\T_MySQL\Module.T_MySQL.cpp.obj"
+"D:\CaoXiaoqing\Project\Text_MySQL\Plugins\T_MySQL\Intermediate\Build\Win64\UE4Editor\Development\T_MySQL\Module.T_MySQL.gen.cpp.obj"
+"D:\CaoXiaoqing\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\CaoXiaoqing\Project\Text_MySQL\Plugins\T_MySQL\Intermediate\Build\Win64\UE4Editor\Development\T_MySQL\UE4Editor-T_MySQL.lib"
+/INCLUDE:IMPLEMENT_MODULE_T_MySQL

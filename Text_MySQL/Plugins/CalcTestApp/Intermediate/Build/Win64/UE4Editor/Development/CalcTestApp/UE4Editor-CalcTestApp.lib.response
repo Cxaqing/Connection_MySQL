@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CalcTestApp.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\CaoXiaoqing\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\SharedPCH.Slate.h.obj"
+"D:\CaoXiaoqing\Project\Text_MySQL\Plugins\CalcTestApp\Intermediate\Build\Win64\UE4Editor\Development\CalcTestApp\Module.CalcTestApp.cpp.obj"
+"D:\CaoXiaoqing\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\CaoXiaoqing\Project\Text_MySQL\Plugins\CalcTestApp\Intermediate\Build\Win64\UE4Editor\Development\CalcTestApp\UE4Editor-CalcTestApp.lib"
+/INCLUDE:IMPLEMENT_MODULE_CalcTestApp

@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "T_MySQL",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "R_Girl",
+	"CreatedByURL": "https://blog.csdn.net/qq_48891172?spm=1001.2101.3001.5343",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+  "Modules": [
+    {
+      "Name": "T_MySQL",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "WhitelistPlatforms": [
+        "Win64",
+        "Win32"
+      ]
+    }
+  ]
+}

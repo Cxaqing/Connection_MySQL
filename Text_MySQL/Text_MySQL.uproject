@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{15ADD247-42B4-2FF5-FB2D-BF942E75397B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Text_MySQL",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CoreUObject",
+				"Slate",
+				"SlateCore"
+			]
+		}
+	]
+}

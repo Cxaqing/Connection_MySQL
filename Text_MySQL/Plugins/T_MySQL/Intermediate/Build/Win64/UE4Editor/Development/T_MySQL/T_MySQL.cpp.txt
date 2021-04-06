@@ -1,0 +1,2 @@
+D:\CaoXiaoqing\Project\Text_MySQL\Plugins\T_MySQL\Intermediate\Build\Win64\UE4Editor\Development\T_MySQL\Definitions.T_MySQL.h
+D:\CaoXiaoqing\Project\Text_MySQL\Plugins\T_MySQL\Source\T_MySQL\Public\T_MySQL.h

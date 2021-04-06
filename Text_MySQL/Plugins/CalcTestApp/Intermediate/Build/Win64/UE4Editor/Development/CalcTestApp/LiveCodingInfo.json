@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CalcTestApp.cpp.obj": [
+			"CalcTestApp.cpp.obj",
+			"CalcTestAppCommands.cpp.obj",
+			"CalcTestAppStyle.cpp.obj",
+			"SCalTestAppWidget.cpp.obj"
+		]
+	}
+}

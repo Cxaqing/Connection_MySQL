@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MyStandaloneWindow.cpp.obj": [
+			"MyStandaloneWindow.cpp.obj",
+			"MyStandaloneWindowCommands.cpp.obj",
+			"MyStandaloneWindowStyle.cpp.obj"
+		]
+	}
+}

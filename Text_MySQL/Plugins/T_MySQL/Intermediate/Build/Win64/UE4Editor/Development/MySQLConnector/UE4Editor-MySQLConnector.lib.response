@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MySQLConnector.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\CaoXiaoqing\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\CaoXiaoqing\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\CaoXiaoqing\Project\Text_MySQL\Plugins\T_MySQL\Intermediate\Build\Win64\UE4Editor\Development\MySQLConnector\UE4Editor-MySQLConnector.lib"
+/INCLUDE:IMPLEMENT_MODULE_MySQLConnector

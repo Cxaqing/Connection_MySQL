@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.T_MySQL.cpp.obj": [
+			"MyConnectionObject.cpp.obj",
+			"SQLBlueprintFunctionLibrary.cpp.obj",
+			"T_MySQL.cpp.obj"
+		],
+		"Module.T_MySQL.gen.cpp.obj": [
+			"MyConnectionObject.gen.cpp.obj",
+			"SQLBlueprintFunctionLibrary.gen.cpp.obj",
+			"T_MySQL.init.gen.cpp.obj"
+		]
+	}
+}
